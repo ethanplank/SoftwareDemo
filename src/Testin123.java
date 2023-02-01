@@ -1,5 +1,5 @@
 public class Testin123 {
     public static void main(String[] args){
-        System.out.println("Testing!");
+        System.out.println("Testing! Change to main method");
     }
 }
